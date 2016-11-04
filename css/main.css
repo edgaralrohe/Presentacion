@@ -1,0 +1,25 @@
+*{ /*todos los elementos*/
+ font-family: helvetica;
+  color:#A2D9CE;
+}
+
+.siescierto{
+	color:#A2D9CE;
+	font-size: 3em;
+   }
+
+.comostas{
+	font-size: 3em;
+	color:#2C3E50;
+}
+
+.quierecompetir{
+	font-size: 2em
+	color red;
+}
+
+
+#pardo{
+	font-style:italic;
+	color:red;
+}
